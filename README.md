@@ -1,2 +1,2 @@
 # Jupyter
-Data Analysis project using python & usefull library/module (pandad,matplotlib,seaborn)
+Data Analysis project using python & usefull library/module (pandas,matplotlib,seaborn)
